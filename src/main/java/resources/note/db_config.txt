@@ -1,0 +1,11 @@
+{
+         "validationQuery": "SELECT 0 ",
+         "driverClassName": "com.mysql.jdbc.Driver",
+         "jdbcUrl": "",
+         "jdbcUserName": "",
+         "jdbcUserPassword": "",
+         "initialSize": "1",
+         "maxActive": "5",
+         "minIdle": "0",
+         "maxWait": "60000"
+}
