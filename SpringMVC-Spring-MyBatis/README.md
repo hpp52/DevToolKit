@@ -25,4 +25,4 @@ Code Generator for MyBatis
 
 About
 -----------------------------------
-* [Github link](https://github.com/hpp52)
+* [Github link](https://github.com/hpp52/DevToolKit)
