@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cpic.center.dao.SurveyEntityMapper">
+  <resultMap id="BaseResultMap" type="com.cpic.center.model.SurveyEntity">
+    <id column="ID" jdbcType="VARCHAR" property="id" />
+    <result column="USR_NAME" jdbcType="VARCHAR" property="usrName" />
+    <result column="DEPARTMENT_NAME" jdbcType="VARCHAR" property="departmentName" />
+    <result column="QUESTION_CODE" jdbcType="INTEGER" property="questionCode" />
+    <result column="REPLY_CODE" jdbcType="INTEGER" property="replyCode" />
+    <result column="REPLY_DETAIL" jdbcType="VARCHAR" property="replyDetail" />
+    <result column="FINISH_DATE" jdbcType="DATE" property="finishDate" />
+    <result column="ACT_DATE" jdbcType="DATE" property="actDate" />
+    <result column="IS_VALID" jdbcType="INTEGER" property="isValid" />
+    <result column="NEW_COLUMN" jdbcType="INTEGER" property="newColumn" />
+  </resultMap>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.String">
+    delete from CXHNWX.T_SURVEY
+    where ID = #{id,jdbcType=VARCHAR}
+  </delete>
+  <insert id="insert" parameterType="com.cpic.center.model.SurveyEntity">
+    insert into CXHNWX.T_SURVEY (ID, USR_NAME, DEPARTMENT_NAME, 
+      QUESTION_CODE, REPLY_CODE, REPLY_DETAIL, 
+      FINISH_DATE, ACT_DATE, IS_VALID, 
+      NEW_COLUMN)
+    values (#{id,jdbcType=VARCHAR}, #{usrName,jdbcType=VARCHAR}, #{departmentName,jdbcType=VARCHAR}, 
+      #{questionCode,jdbcType=INTEGER}, #{replyCode,jdbcType=INTEGER}, #{replyDetail,jdbcType=VARCHAR}, 
+      #{finishDate,jdbcType=DATE}, #{actDate,jdbcType=DATE}, #{isValid,jdbcType=INTEGER}, 
+      #{newColumn,jdbcType=INTEGER})
+  </insert>
+  <update id="updateByPrimaryKey" parameterType="com.cpic.center.model.SurveyEntity">
+    update CXHNWX.T_SURVEY
+    set USR_NAME = #{usrName,jdbcType=VARCHAR},
+      DEPARTMENT_NAME = #{departmentName,jdbcType=VARCHAR},
+      QUESTION_CODE = #{questionCode,jdbcType=INTEGER},
+      REPLY_CODE = #{replyCode,jdbcType=INTEGER},
+      REPLY_DETAIL = #{replyDetail,jdbcType=VARCHAR},
+      FINISH_DATE = #{finishDate,jdbcType=DATE},
+      ACT_DATE = #{actDate,jdbcType=DATE},
+      IS_VALID = #{isValid,jdbcType=INTEGER},
+      NEW_COLUMN = #{newColumn,jdbcType=INTEGER}
+    where ID = #{id,jdbcType=VARCHAR}
+  </update>
+  <select id="selectByPrimaryKey" parameterType="java.lang.String" resultMap="BaseResultMap">
+    select ID, USR_NAME, DEPARTMENT_NAME, QUESTION_CODE, REPLY_CODE, REPLY_DETAIL, FINISH_DATE, 
+    ACT_DATE, IS_VALID, NEW_COLUMN
+    from CXHNWX.T_SURVEY
+    where ID = #{id,jdbcType=VARCHAR}
+  </select>
+  <select id="selectAll" resultMap="BaseResultMap">
+    select ID, USR_NAME, DEPARTMENT_NAME, QUESTION_CODE, REPLY_CODE, REPLY_DETAIL, FINISH_DATE, 
+    ACT_DATE, IS_VALID, NEW_COLUMN
+    from CXHNWX.T_SURVEY
+  </select>
+</mapper>
