@@ -3,10 +3,10 @@ SpringMVC+Spring+MyBatis
 
 Frameworks and Tools
 -----------------------------------
-* Java&IDE: JDK6 MyEclipse
+* Java&IDE: JDK8 Idea
 * Backend:  SpringMVC3.2.9 Spring3.2.9 MyBatis3.1.1 (Configured by annotation)
-* Database: Oracle10g
-* Web Server: Tomcat 7
+* Database: Oracle14
+* Web Server: Tomcat 8.5
 * Build Tool: Maven
 * Other: Druid(database connection pool) JUnit Log4j Jackson FastJson
 
@@ -25,5 +25,4 @@ Code Generator for MyBatis
 
 About
 -----------------------------------
-* [Github link](https://github.com/cpicXie)
-* [Linkedin link](http://www.linkedin.com/in/cpicxie)
+* [Github link](https://github.com/hpp52)

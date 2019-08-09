@@ -1,6 +1,0 @@
-
-ksquid:UselessImportCheck"@Remove this unused import 'io.swagger.annotations.ApiOperation'.(¡šÜ8é§ŸäÁ-
-squid:S1488F"^Immediately return this expression instead of assigning it to the temporary variable "docket".(ø¯¤‘úÿÿÿÿ8é§ŸäÁ-
-ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤¾®‚8é§ŸäÁ-
-Šsquid:S1488S"gImmediately return this expression instead of assigning it to the temporary variable "globalResponses".(æåèÙüÿÿÿÿ8é§ŸäÁ-
-vsquid:ModifiersOrderCheck&"EReorder the modifiers to comply with the Java Language Specification.(Ö‚¡ñşÿÿÿÿ8é§ŸäÁ-
