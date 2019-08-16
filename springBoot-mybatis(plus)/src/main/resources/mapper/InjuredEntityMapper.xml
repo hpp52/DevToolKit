@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cpic.nlmis.dao.InjuredEntityMapper">
+  <resultMap id="BaseResultMap" type="com.cpic.nlmis.model.InjuredEntity">
+    <id column="ID" jdbcType="VARCHAR" property="id" />
+    <result column="INJURY_NAME" jdbcType="VARCHAR" property="injuryName" />
+    <result column="ID_NO" jdbcType="VARCHAR" property="idNo" />
+    <result column="SEX" jdbcType="VARCHAR" property="sex" />
+    <result column="AGE" jdbcType="VARCHAR" property="age" />
+    <result column="ADDRESS" jdbcType="VARCHAR" property="address" />
+    <result column="HOSPITAL" jdbcType="VARCHAR" property="hospital" />
+    <result column="HOSPITAL_CODE" jdbcType="VARCHAR" property="hospitalCode" />
+    <result column="DIAGNOSIS" jdbcType="VARCHAR" property="diagnosis" />
+    <result column="FEE_DETAIL_ID" jdbcType="VARCHAR" property="feeDetailId" />
+    <result column="SECTION" jdbcType="VARCHAR" property="section" />
+    <result column="BED" jdbcType="VARCHAR" property="bed" />
+    <result column="CUSTOMER_ID" jdbcType="VARCHAR" property="customerId" />
+    <result column="SIGNATURE" jdbcType="VARCHAR" property="signature" />
+    <result column="ACT_DATE" jdbcType="DATE" property="actDate" />
+    <result column="STATUS" jdbcType="VARCHAR" property="status" />
+    <result column="HOSPITAL_GROUP" jdbcType="VARCHAR" property="hospitalGroup" />
+    <result column="IP_ADDRESS" jdbcType="VARCHAR" property="ipAddress" />
+  </resultMap>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.String">
+    delete from CXHNWX.T_INJURED
+    where ID = #{id,jdbcType=VARCHAR}
+  </delete>
+  <insert id="insert" parameterType="com.cpic.nlmis.model.InjuredEntity">
+    insert into CXHNWX.T_INJURED (ID, INJURY_NAME, ID_NO, 
+      SEX, AGE, ADDRESS, 
+      HOSPITAL, HOSPITAL_CODE, DIAGNOSIS, 
+      FEE_DETAIL_ID, SECTION, BED, 
+      CUSTOMER_ID, SIGNATURE, ACT_DATE, 
+      STATUS, HOSPITAL_GROUP, IP_ADDRESS
+      )
+    values (#{id,jdbcType=VARCHAR}, #{injuryName,jdbcType=VARCHAR}, #{idNo,jdbcType=VARCHAR}, 
+      #{sex,jdbcType=VARCHAR}, #{age,jdbcType=VARCHAR}, #{address,jdbcType=VARCHAR}, 
+      #{hospital,jdbcType=VARCHAR}, #{hospitalCode,jdbcType=VARCHAR}, #{diagnosis,jdbcType=VARCHAR}, 
+      #{feeDetailId,jdbcType=VARCHAR}, #{section,jdbcType=VARCHAR}, #{bed,jdbcType=VARCHAR}, 
+      #{customerId,jdbcType=VARCHAR}, #{signature,jdbcType=VARCHAR}, #{actDate,jdbcType=DATE}, 
+      #{status,jdbcType=VARCHAR}, #{hospitalGroup,jdbcType=VARCHAR}, #{ipAddress,jdbcType=VARCHAR}
+      )
+  </insert>
+  <update id="updateByPrimaryKey" parameterType="com.cpic.nlmis.model.InjuredEntity">
+    update CXHNWX.T_INJURED
+    set INJURY_NAME = #{injuryName,jdbcType=VARCHAR},
+      ID_NO = #{idNo,jdbcType=VARCHAR},
+      SEX = #{sex,jdbcType=VARCHAR},
+      AGE = #{age,jdbcType=VARCHAR},
+      ADDRESS = #{address,jdbcType=VARCHAR},
+      HOSPITAL = #{hospital,jdbcType=VARCHAR},
+      HOSPITAL_CODE = #{hospitalCode,jdbcType=VARCHAR},
+      DIAGNOSIS = #{diagnosis,jdbcType=VARCHAR},
+      FEE_DETAIL_ID = #{feeDetailId,jdbcType=VARCHAR},
+      SECTION = #{section,jdbcType=VARCHAR},
+      BED = #{bed,jdbcType=VARCHAR},
+      CUSTOMER_ID = #{customerId,jdbcType=VARCHAR},
+      SIGNATURE = #{signature,jdbcType=VARCHAR},
+      ACT_DATE = #{actDate,jdbcType=DATE},
+      STATUS = #{status,jdbcType=VARCHAR},
+      HOSPITAL_GROUP = #{hospitalGroup,jdbcType=VARCHAR},
+      IP_ADDRESS = #{ipAddress,jdbcType=VARCHAR}
+    where ID = #{id,jdbcType=VARCHAR}
+  </update>
+  <select id="selectByPrimaryKey" parameterType="java.lang.String" resultMap="BaseResultMap">
+    select ID, INJURY_NAME, ID_NO, SEX, AGE, ADDRESS, HOSPITAL, HOSPITAL_CODE, DIAGNOSIS, 
+    FEE_DETAIL_ID, SECTION, BED, CUSTOMER_ID, SIGNATURE, ACT_DATE, STATUS, HOSPITAL_GROUP, 
+    IP_ADDRESS
+    from CXHNWX.T_INJURED
+    where ID = #{id,jdbcType=VARCHAR}
+  </select>
+  <select id="selectAll" resultMap="BaseResultMap">
+    select ID, INJURY_NAME, ID_NO, SEX, AGE, ADDRESS, HOSPITAL, HOSPITAL_CODE, DIAGNOSIS, 
+    FEE_DETAIL_ID, SECTION, BED, CUSTOMER_ID, SIGNATURE, ACT_DATE, STATUS, HOSPITAL_GROUP, 
+    IP_ADDRESS
+    from CXHNWX.T_INJURED
+  </select>
+</mapper>
