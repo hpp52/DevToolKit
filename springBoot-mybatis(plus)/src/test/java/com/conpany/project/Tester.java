@@ -1,7 +1,7 @@
 package com.conpany.project;
 
 
-import com.cpic.nlmis.CpicApp;
+import com.dfkj.nlmis.dfkjApp;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.annotation.Rollback;
@@ -12,7 +12,7 @@ import org.springframework.transaction.annotation.Transactional;
  * 单元测试继承该类即可
  */
 @RunWith(SpringRunner.class)
-@SpringBootTest(classes = CpicApp.class)
+@SpringBootTest(classes = dfkjApp.class)
 @Transactional
 @Rollback
 public abstract class Tester {}

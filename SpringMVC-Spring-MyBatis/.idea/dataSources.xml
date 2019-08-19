@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="@10.182.95.98" uuid="e0f26500-bda8-4413-8722-74bb77a89b3c">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@10.182.95.98:1521:cxhnids</jdbc-url>
+      <driver-properties>
+        <property name="v$session.program" value="DataGrip" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>

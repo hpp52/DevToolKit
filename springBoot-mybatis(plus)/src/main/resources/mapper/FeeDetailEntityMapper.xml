@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.cpic.nlmis.dao.FeeDetailEntityMapper">
-  <resultMap id="BaseResultMap" type="com.cpic.nlmis.model.FeeDetailEntity">
+<mapper namespace="com.dfkj.nlmis.dao.FeeDetailEntityMapper">
+  <resultMap id="BaseResultMap" type="com.dfkj.nlmis.model.FeeDetailEntity">
     <id column="ID" jdbcType="VARCHAR" property="id" />
     <result column="INJURY_NAME" jdbcType="VARCHAR" property="injuryName" />
     <result column="ITEM" jdbcType="VARCHAR" property="item" />
@@ -19,7 +19,7 @@
     delete from CXHNWX.T_FEE_DETAIL
     where ID = #{id,jdbcType=VARCHAR}
   </delete>
-  <insert id="insert" parameterType="com.cpic.nlmis.model.FeeDetailEntity">
+  <insert id="insert" parameterType="com.dfkj.nlmis.model.FeeDetailEntity">
     insert into CXHNWX.T_FEE_DETAIL (ID, INJURY_NAME, ITEM, 
       ITEM_NAME, SPEC, PRICE, 
       ITEM_NUMBER, AMOUNT, SELF_AMOUNT, 
@@ -31,7 +31,7 @@
       #{injuredId,jdbcType=VARCHAR}, #{actDate,jdbcType=DATE}, #{status,jdbcType=VARCHAR}
       )
   </insert>
-  <update id="updateByPrimaryKey" parameterType="com.cpic.nlmis.model.FeeDetailEntity">
+  <update id="updateByPrimaryKey" parameterType="com.dfkj.nlmis.model.FeeDetailEntity">
     update CXHNWX.T_FEE_DETAIL
     set INJURY_NAME = #{injuryName,jdbcType=VARCHAR},
       ITEM = #{item,jdbcType=VARCHAR},

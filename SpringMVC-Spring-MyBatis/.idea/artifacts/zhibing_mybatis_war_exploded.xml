@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="zhibing_mybatis:war exploded">
+    <output-path>$PROJECT_DIR$/target/zhibing_mybatis</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>zhibing_mybatis</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="awesome_mvc" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/zhibing_mybatis/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="awesome_mvc/web/Web" />
+    </root>
+  </artifact>
+</component>

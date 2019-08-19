@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.cpic.nlmis.dao.InjuredEntityMapper">
-  <resultMap id="BaseResultMap" type="com.cpic.nlmis.model.InjuredEntity">
+<mapper namespace="com.dfkj.nlmis.dao.InjuredEntityMapper">
+  <resultMap id="BaseResultMap" type="com.dfkj.nlmis.model.InjuredEntity">
     <id column="ID" jdbcType="VARCHAR" property="id" />
     <result column="INJURY_NAME" jdbcType="VARCHAR" property="injuryName" />
     <result column="ID_NO" jdbcType="VARCHAR" property="idNo" />
@@ -25,7 +25,7 @@
     delete from CXHNWX.T_INJURED
     where ID = #{id,jdbcType=VARCHAR}
   </delete>
-  <insert id="insert" parameterType="com.cpic.nlmis.model.InjuredEntity">
+  <insert id="insert" parameterType="com.dfkj.nlmis.model.InjuredEntity">
     insert into CXHNWX.T_INJURED (ID, INJURY_NAME, ID_NO, 
       SEX, AGE, ADDRESS, 
       HOSPITAL, HOSPITAL_CODE, DIAGNOSIS, 
@@ -41,7 +41,7 @@
       #{status,jdbcType=VARCHAR}, #{hospitalGroup,jdbcType=VARCHAR}, #{ipAddress,jdbcType=VARCHAR}
       )
   </insert>
-  <update id="updateByPrimaryKey" parameterType="com.cpic.nlmis.model.InjuredEntity">
+  <update id="updateByPrimaryKey" parameterType="com.dfkj.nlmis.model.InjuredEntity">
     update CXHNWX.T_INJURED
     set INJURY_NAME = #{injuryName,jdbcType=VARCHAR},
       ID_NO = #{idNo,jdbcType=VARCHAR},

@@ -1,9 +1,9 @@
 package com.conpany.project;
 import java.util.Date;
 
-import com.cpic.nlmis.CpicApp;
-import com.cpic.nlmis.model.FeeDetailEntity;
-import com.cpic.nlmis.service.CpicFeeDetailService;
+import com.dfkj.nlmis.dfkjApp;
+import com.dfkj.nlmis.model.FeeDetailEntity;
+import com.dfkj.nlmis.service.dfkjFeeDetailService;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -14,10 +14,10 @@ import org.springframework.test.context.junit4.SpringRunner;
  * @Description:
  * @Date: 2019/8/16 10:34
  */
-@SpringBootTest(classes = { CpicApp.class, serviceTest.class })
+@SpringBootTest(classes = { dfkjApp.class, serviceTest.class })
 public class serviceTest extends Tester {
     @Autowired
-    private CpicFeeDetailService cpicFeeDetailService;
+    private dfkjFeeDetailService dfkjFeeDetailService;
 
     @Test
     public  void  CRUDTest(){
@@ -35,7 +35,7 @@ public class serviceTest extends Tester {
         params.setActDate(new Date());
         params.setStatus("1");
 
-        cpicFeeDetailService.insert(params);
+        dfkjFeeDetailService.insert(params);
     }
 
 }
