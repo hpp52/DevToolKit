@@ -1,4 +1,4 @@
-package com.yingzi.myLearning.common.config;
+package com.dfkj.myLearning.common.config;
 
 import com.alibaba.fastjson.JSON;
 import org.apache.ibatis.javassist.ClassClassPath;
@@ -34,7 +34,7 @@ public class MethodParamtersAdvisor {
 		classPool.insertClassPath(new ClassClassPath(MethodParamtersAdvisor.class));
 	}
 
-	@Before("execution(* com.yingzi.center.bio.api..*(..))")
+	@Before("execution(* com.dfkj.center.bio.api..*(..))")
 	public void before(JoinPoint joinPoint) {
 		try {
 

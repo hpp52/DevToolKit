@@ -1,4 +1,4 @@
-package com.yingzi.myLearning.entity.quartz;
+package com.dfkj.myLearning.entity.quartz;
 
 import org.quartz.spi.TriggerFiredBundle;
 import org.springframework.beans.factory.annotation.Autowired;

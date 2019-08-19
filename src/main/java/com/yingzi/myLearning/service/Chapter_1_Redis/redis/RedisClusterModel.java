@@ -1,4 +1,4 @@
-package com.yingzi.myLearning.service.Chapter_1_Redis.redis;
+package com.dfkj.myLearning.service.Chapter_1_Redis.redis;
 
 public class RedisClusterModel {
 	private int expireSeconds;

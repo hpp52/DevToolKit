@@ -1,7 +1,7 @@
-package com.yingzi.myLearning.service.Chapter_1_Redis.redis;
+package com.dfkj.myLearning.service.Chapter_1_Redis.redis;
 
-import com.yingzi.myLearning.common.config.redis.EdasRedisClusterConfiguration;
-import com.yingzi.myLearning.common.config.redis.RedisClusterModel;
+import com.dfkj.myLearning.common.config.redis.EdasRedisClusterConfiguration;
+import com.dfkj.myLearning.common.config.redis.RedisClusterModel;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

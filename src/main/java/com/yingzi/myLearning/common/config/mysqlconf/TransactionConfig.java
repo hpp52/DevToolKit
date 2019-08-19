@@ -1,4 +1,4 @@
-package com.yingzi.myLearning.common.config.mysqlconf;
+package com.dfkj.myLearning.common.config.mysqlconf;
 
 import org.aspectj.lang.annotation.Aspect;
 import org.springframework.aop.aspectj.AspectJExpressionPointcutAdvisor;
@@ -59,7 +59,7 @@ public class TransactionConfig {
     public AspectJExpressionPointcutAdvisor pointcutAdvisor(TransactionInterceptor txInterceptor){
         AspectJExpressionPointcutAdvisor pointcutAdvisor = new AspectJExpressionPointcutAdvisor();
         pointcutAdvisor.setAdvice(txInterceptor);
-        pointcutAdvisor.setExpression("execution (* com.yingzi.center.bio.api.*.*(..))");
+        pointcutAdvisor.setExpression("execution (* com.dfkj.center.bio.api.*.*(..))");
         return pointcutAdvisor;
     }
  

@@ -1,4 +1,4 @@
-package com.yingzi.myLearning.common.config;
+package com.dfkj.myLearning.common.config;
 
 import java.util.List;
 

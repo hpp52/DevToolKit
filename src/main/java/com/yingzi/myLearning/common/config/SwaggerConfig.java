@@ -1,4 +1,4 @@
-package com.yingzi.myLearning.common.config;
+package com.dfkj.myLearning.common.config;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.yingzi.center.bio.common.constant.ReturnCodeEnum;
+import com.dfkj.center.bio.common.constant.ReturnCodeEnum;
 
 import io.swagger.annotations.ApiOperation;
 import springfox.documentation.builders.ApiInfoBuilder;
@@ -58,7 +58,7 @@ public class SwaggerConfig {
 		pars.add(tokenPar.build());
 
 		ApiSelectorBuilder apiSelectorBuilder = new Docket(DocumentationType.SWAGGER_2).apiInfo(getApiInfo()).select()
-				// .apis(RequestHandlerSelectors.basePackage("com.yingzi.center.bio.web.controller"))
+				// .apis(RequestHandlerSelectors.basePackage("com.dfkj.center.bio.web.controller"))
 				.apis(RequestHandlerSelectors.withClassAnnotation(RestController.class));
 
 		

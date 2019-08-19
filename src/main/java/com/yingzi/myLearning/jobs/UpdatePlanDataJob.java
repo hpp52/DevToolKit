@@ -1,12 +1,12 @@
-package com.yingzi.myLearning.jobs;
+package com.dfkj.myLearning.jobs;
 
-import com.yingzi.center.bio.api.BioImmunePlanDetailService;
-import com.yingzi.center.bio.common.util.BioDateUtils;
-import com.yingzi.center.bio.common.util.SnowflakeIdWorker;
-import com.yingzi.center.bio.controller.bio.BioHealthPlanController;
-import com.yingzi.center.bio.entity.vo.BioImmunePlanVo;
-import com.yingzi.center.breeding.api.query.IBreedBreastQueryApi;
-import com.yingzi.center.breeding.dto.BreedParamDto;
+import com.dfkj.center.bio.api.BioImmunePlanDetailService;
+import com.dfkj.center.bio.common.util.BioDateUtils;
+import com.dfkj.center.bio.common.util.SnowflakeIdWorker;
+import com.dfkj.center.bio.controller.bio.BioHealthPlanController;
+import com.dfkj.center.bio.entity.vo.BioImmunePlanVo;
+import com.dfkj.center.breeding.api.query.IBreedBreastQueryApi;
+import com.dfkj.center.breeding.dto.BreedParamDto;
 import org.apache.commons.lang3.StringUtils;
 import org.quartz.Job;
 import org.quartz.JobExecutionContext;

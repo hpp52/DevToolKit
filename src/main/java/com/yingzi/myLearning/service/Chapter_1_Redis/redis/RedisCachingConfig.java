@@ -1,6 +1,6 @@
-package com.yingzi.myLearning.service.Chapter_1_Redis.redis;
+package com.dfkj.myLearning.service.Chapter_1_Redis.redis;
 
-import com.yingzi.center.bio.entity.redis.RedisKeyGenerator;
+import com.dfkj.center.bio.entity.redis.RedisKeyGenerator;
 import org.springframework.cache.annotation.CachingConfigurerSupport;
 import org.springframework.cache.interceptor.KeyGenerator;
 import org.springframework.context.annotation.Bean;

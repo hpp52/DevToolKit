@@ -1,4 +1,4 @@
-package com.yingzi.myLearning.common.utils;
+package com.dfkj.myLearning.common.utils;
 
 import org.springframework.beans.BeanUtils;
 

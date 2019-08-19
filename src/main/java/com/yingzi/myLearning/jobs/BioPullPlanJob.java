@@ -1,23 +1,23 @@
-package com.yingzi.myLearning.jobs;
+package com.dfkj.myLearning.jobs;
 
 import com.alibaba.fastjson.JSONObject;
 import com.dtyunxi.dto.ResponseDto;
 import com.dtyunxi.yundt.center.user.api.query.IRoleQueryApi;
 import com.dtyunxi.yundt.center.user.eo.RoleEo;
-import com.yingzi.center.bio.api.BioImmunePlanDetailService;
-import com.yingzi.center.bio.common.util.BioDateUtils;
-import com.yingzi.center.bio.common.util.SnowflakeIdWorker;
-import com.yingzi.center.bio.common.util.SymbolUtil;
-import com.yingzi.center.bio.entity.vo.BioImmunePlanVo;
-import com.yingzi.center.bio.entity.vo.BioImmunePullPlanData;
-import com.yingzi.center.breeding.api.query.IBreedBreastQueryApi;
-import com.yingzi.center.breeding.dto.BreedParamDto;
-import com.yingzi.center.taskdb.dto.ProjectId;
-import com.yingzi.center.taskdb.dto.TaskId;
-import com.yingzi.task.client.api.yz.YzTask;
-import com.yingzi.task.client.rpc.api.YzClient;
-import com.yingzi.task.client.rpc.api.YzCollection;
-import com.yingzi.task.client.rpc.api.impl.YzRpcConnection;
+import com.dfkj.center.bio.api.BioImmunePlanDetailService;
+import com.dfkj.center.bio.common.util.BioDateUtils;
+import com.dfkj.center.bio.common.util.SnowflakeIdWorker;
+import com.dfkj.center.bio.common.util.SymbolUtil;
+import com.dfkj.center.bio.entity.vo.BioImmunePlanVo;
+import com.dfkj.center.bio.entity.vo.BioImmunePullPlanData;
+import com.dfkj.center.breeding.api.query.IBreedBreastQueryApi;
+import com.dfkj.center.breeding.dto.BreedParamDto;
+import com.dfkj.center.taskdb.dto.ProjectId;
+import com.dfkj.center.taskdb.dto.TaskId;
+import com.dfkj.task.client.api.hk.hkTask;
+import com.dfkj.task.client.rpc.api.hkClient;
+import com.dfkj.task.client.rpc.api.hkCollection;
+import com.dfkj.task.client.rpc.api.impl.hkRpcConnection;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.time.DateUtils;
 import org.quartz.Job;
@@ -40,7 +40,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 public class BioPullPlanJob implements Job{
 
     public static Logger log = LoggerFactory.getLogger(BioPullPlanJob.class);
-    private static volatile YzCollection coll = null;
+    private static volatile hkCollection coll = null;
     final Map<String, List<BioImmunePlanVo>> cache = new ConcurrentHashMap<String, List<BioImmunePlanVo>>();
     final SnowflakeIdWorker idWorker = new SnowflakeIdWorker(0, 0);
     @Autowired
@@ -49,19 +49,19 @@ public class BioPullPlanJob implements Job{
     private BioImmunePlanDetailService bioImmunePlanDetailService;
     @Autowired
     private IRoleQueryApi roleQueryApi;
-    private String PROJECTID = "yingzibioimmuneprojecttask";
+    private String PROJECTID = "dfkjbioimmuneprojecttask";
 
 
     private AtomicInteger cal = new AtomicInteger();
 
     private int total = 0;
 
-    public static YzCollection getYzCollection() {
+    public static hkCollection gethkCollection() {
         if (coll == null) {
             synchronized (BioPullPlanJob.class) {
                 if (coll == null) {
-                    YzClient client = YzRpcConnection.getClient();
-                    YzCollection coll = client.getCollection();
+                    hkClient client = hkRpcConnection.getClient();
+                    hkCollection coll = client.getCollection();
                     return coll;
                 }
             }
@@ -105,29 +105,29 @@ public class BioPullPlanJob implements Job{
             * 第四步：推送数据
             */
             
-            YzTask yzTask = new YzTask(new TaskId(Long.toString(idWorker.nextId()).getBytes()));
-            yzTask.setProjectId(new ProjectId(PROJECTID.getBytes()));
+            hkTask hkTask = new hkTask(new TaskId(Long.toString(idWorker.nextId()).getBytes()));
+            hkTask.setProjectId(new ProjectId(PROJECTID.getBytes()));
             
             
-            yzTask.setContent(JSONObject.toJSONString(pullPlanData));
-            yzTask.setCreatedTime(new Date());
-            yzTask.setPausing(false);
-            yzTask.setCreatePerson("0");//0-默认系统
+            hkTask.setContent(JSONObject.toJSONString(pullPlanData));
+            hkTask.setCreatedTime(new Date());
+            hkTask.setPausing(false);
+            hkTask.setCreatePerson("0");//0-默认系统
             ResponseDto<RoleEo> roleEoResponseDto = roleQueryApi.queryEoById(pullPlanData.getRoleId());
             if (roleEoResponseDto == null || roleEoResponseDto.getData() == null) {
                 continue;
             }
             
             if(pullPlanData.getFarmId()!=null) {
-            	yzTask.setOrganization(pullPlanData.getFarmId().toString());
+            	hkTask.setOrganization(pullPlanData.getFarmId().toString());
             }
             
-            yzTask.setRole(roleEoResponseDto.getData().getCode());
-            yzTask.setName(pullPlanData.getTitle());
-            yzTask.setCreatedTime(pullPlanData.getPlanDate());
+            hkTask.setRole(roleEoResponseDto.getData().getCode());
+            hkTask.setName(pullPlanData.getTitle());
+            hkTask.setCreatedTime(pullPlanData.getPlanDate());
          
-            log.info("向任务中心推送数据--> 第{}条，任务属性: {}",i,JSONObject.toJSONString(yzTask));
-            getYzCollection().saveTask(yzTask);
+            log.info("向任务中心推送数据--> 第{}条，任务属性: {}",i,JSONObject.toJSONString(hkTask));
+            gethkCollection().saveTask(hkTask);
             i++;
         }
 

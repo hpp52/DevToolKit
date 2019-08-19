@@ -1,6 +1,6 @@
-package com.yingzi.myLearning.service.Chapter_1_Redis.redis;
+package com.dfkj.myLearning.service.Chapter_1_Redis.redis;
 
-import com.yingzi.center.bio.entity.vo.VetCommonsVo;
+import com.dfkj.center.bio.entity.vo.VetCommonsVo;
 import org.springframework.cache.interceptor.KeyGenerator;
 
 import java.beans.PropertyDescriptor;

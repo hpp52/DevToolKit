@@ -1,6 +1,6 @@
-package com.yingzi.myLearning.jobs;
+package com.dfkj.myLearning.jobs;
 
-import com.yingzi.center.bio.controller.bio.BioHealthPlanController;
+import com.dfkj.center.bio.controller.bio.BioHealthPlanController;
 import org.quartz.Job;
 import org.quartz.JobExecutionContext;
 import org.quartz.JobExecutionException;

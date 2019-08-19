@@ -1,4 +1,4 @@
-package com.yingzi.myLearning.common.config.mysqlconf;
+package com.dfkj.myLearning.common.config.mysqlconf;
 
 import com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor;
 import com.github.pagehelper.PageInterceptor;

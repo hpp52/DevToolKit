@@ -22,11 +22,11 @@
 	</settings>
 
 	<!--<typeAliases>
-		<package name="com.yingzi.center.bsc.db.entity"/>
-		<package name="com.yingzi.center.bio.model"/>
+		<package name="com.dfkj.center.bsc.db.entity"/>
+		<package name="com.dfkj.center.bio.model"/>
 	</typeAliases>-->
 	<mappers>
-		<package name="com.yingzi.center.bio.mapper"></package>
-		<package name="com.yingzi.center.bio.db.mapper"></package>
+		<package name="com.dfkj.center.bio.mapper"></package>
+		<package name="com.dfkj.center.bio.db.mapper"></package>
 	</mappers>
 </configuration>

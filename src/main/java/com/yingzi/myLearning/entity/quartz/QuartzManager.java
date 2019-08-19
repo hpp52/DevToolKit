@@ -1,4 +1,4 @@
-package com.yingzi.myLearning.entity.quartz;
+package com.dfkj.myLearning.entity.quartz;
 
 import org.apache.log4j.Logger;
 import org.quartz.*;

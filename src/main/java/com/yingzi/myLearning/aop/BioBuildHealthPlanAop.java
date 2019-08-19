@@ -1,4 +1,4 @@
-package com.yingzi.myLearning.aop;
+package com.dfkj.myLearning.aop;
 
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.annotation.AfterReturning;
@@ -13,8 +13,8 @@ import org.springframework.stereotype.Component;
 public class BioBuildHealthPlanAop {
 	private static Logger logger = LoggerFactory.getLogger(BioBuildHealthPlanAop.class);
 	
-	@Pointcut("@annotation(com.yingzi.center.bio.aop.BioBuildHealthPlan)||"
-			+ " @within(com.yingzi.center.bio.aop.BioBuildHealthPlan)")
+	@Pointcut("@annotation(com.dfkj.center.bio.aop.BioBuildHealthPlan)||"
+			+ " @within(com.dfkj.center.bio.aop.BioBuildHealthPlan)")
 	public void pointCut() {
 
 	}

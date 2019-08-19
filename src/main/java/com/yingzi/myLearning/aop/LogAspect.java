@@ -1,7 +1,7 @@
-package com.yingzi.myLearning.aop;
+package com.dfkj.myLearning.aop;
 
-import com.yingzi.center.bio.entity.exception.BioPlatformException;
-import com.yingzi.center.bio.entity.utils.ValidatorUtils;
+import com.dfkj.center.bio.entity.exception.BioPlatformException;
+import com.dfkj.center.bio.entity.utils.ValidatorUtils;
 import org.apache.commons.lang3.ArrayUtils;
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.Signature;
@@ -24,7 +24,7 @@ import java.util.stream.IntStream;
 public class LogAspect {
     private static final Logger LOGGER = LoggerFactory.getLogger(LogAspect.class);
 
-    @Around("@annotation(com.yingzi.center.bio.aop.SysVaild)")
+    @Around("@annotation(com.dfkj.center.bio.aop.SysVaild)")
     public Object log(ProceedingJoinPoint joinPoint) throws Throwable {
         String methodName = joinPoint.getSignature().getName();
         Object result = null;

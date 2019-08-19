@@ -1,4 +1,4 @@
-package com.yingzi.myLearning.common.config.mysqlconf;
+package com.dfkj.myLearning.common.config.mysqlconf;
 
 import org.springframework.jdbc.datasource.DataSourceTransactionManager;
 import org.springframework.transaction.TransactionDefinition;

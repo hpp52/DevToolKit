@@ -1,6 +1,6 @@
-package com.yingzi.myLearning.common.utils;
+package com.dfkj.myLearning.common.utils;
 
-import com.yingzi.center.bio.entity.exception.BioPlatformException;
+import com.dfkj.center.bio.entity.exception.BioPlatformException;
 import org.apache.commons.collections.CollectionUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

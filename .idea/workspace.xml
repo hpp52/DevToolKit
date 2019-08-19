@@ -2,9 +2,101 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8c47436-3366-44e1-9729-5431cf4813b5" name="Default Changelist" comment="fristCommit">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/0524134739b0ea678ad913e8b1e0fbad7c02bbbb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06a5cb1284fe1f0369818cbb7fe0d85f49826855" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/12eda434f44b7374fd19d74a259216131641be1f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/1330b8d68fbbf90833ec12651fd53970dfc2472d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1e1093cff01da825e965819b6da99417a87ee507" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/2199eb1c405cab03cddfc46cb161b6b35588c275" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d76c6370450ad022ccf5fe56b7b0b6c920f35d0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3ea1ef535e73a3ec0cad583ae79f30611b72a977" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/405b68497b5ecf1888d8c164eff0784705da3d6a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/1/4170601f08330b00bb1aa39d00274cee70de637d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/451148b8989a6dc40bacbceb7b8cd914978ec196" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4b841e4fb3a5539215d04243357dde2fd7a5fab6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4bbe79235b4b49b6b6a3f06b8e2a7ca15077e9f2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4da5ff9ccf0397164bf85229d19222999763652d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/53715cca0c37b67c38e08cb08402b1d8d2b9a229" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5ae574b44a3009129eeb3f9653389b864545b826" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b0abe2c23fe515c62f5c7018e85fceade21c948" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/633d88c04f6b5e8b26c9b687dbac04a5c1369f7b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c6696f8e7041fad85f9ffd5fcc1f64bc5b593f2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/89dd1dc47b2cda311d67e4906fc8bbf32e72131e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad0d9ca841e4c53896807ed325b81583dd0c0ba" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f058863559f292297ddf0f590bf87ca69f6094d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a4d099b604b97deb0e237ea16450e3d782814e5e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a930f4a3332e17cb834ceb283dd02d55d12edbd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/ab69e80542160e5f2fddffd08d0dc0a8024473f0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b927e2906c62bd851087c810ba534a1c856085cb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c1523fad17bb3787f7ef5dcff77c0e4ca24fc3f3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3f9505d0da92779911ef6c7eba8aadb8115a7b6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb740c40180125fef0c8ddec7b2be01d58b3d6fb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc47f05deb6b5096ebc4ee54f3afeb7a26c9418d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d1bcb448de66dc711e7f886f1a7e272e12ea0d1c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d6776e7b72c79b1d40ec7df68d3aa4c69ec5ba15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d710c5ab56c678e45bc48084970a3fd8d4450a46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6a1775a4599d7c639f62499c8fe83029f8e1ce7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fa281cfce68b4f1b00bccc0fc69be95ae4fe3507" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb719e4a84944399ea1ee6de82a9e67373a8b9b2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb8bf1685ed9dccb7c77faacbc37bf2fccc97890" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC-Spring-MyBatis/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC-Spring-MyBatis/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC-Spring-MyBatis/mybatis.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/resources/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/resources/mapper/FeeDetailEntityMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/resources/mapper/InjuredEntityMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/resources/mapper/UserEntityMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/aop/BioBuildHealthPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/aop/BioBuildHealthPlan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/aop/BioBuildHealthPlanAop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/aop/BioBuildHealthPlanAop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/aop/BioEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/aop/BioEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/aop/BioEventAop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/aop/BioEventAop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/aop/BioServiceParamsValidAop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/aop/BioServiceParamsValidAop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/aop/LogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/aop/LogAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/aop/SysVaild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/aop/SysVaild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/HSFProviderConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/HSFProviderConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/MethodParamtersAdvisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/MethodParamtersAdvisor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/WebAppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/WebAppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/mysqlconf/BioDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/mysqlconf/BioDataSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/mysqlconf/DataSourceModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/mysqlconf/DataSourceModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/mysqlconf/DrdsTransaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/mysqlconf/DrdsTransaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/mysqlconf/MysqlDataSourceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/mysqlconf/MysqlDataSourceConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/mysqlconf/SqlSessionFactoryConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/mysqlconf/SqlSessionFactoryConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/mysqlconf/TransactionConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/mysqlconf/TransactionConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/redis/EdasRedisClusterConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/redis/EdasRedisClusterConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/redis/RedisCachingConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/redis/RedisCachingConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/redis/RedisClusterModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/redis/RedisClusterModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/redis/RedisClusterWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/redis/RedisClusterWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/redis/RedisFactoryConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/redis/RedisFactoryConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/utils/BioBeanUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/utils/BioBeanUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/utils/JSONUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/utils/JSONUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/utils/ValidatorUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/utils/ValidatorUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/constant/ReturnCodeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/constant/ReturnCodeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/entity/quartz/JobFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/entity/quartz/JobFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/entity/quartz/QuartzManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/entity/quartz/QuartzManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/entity/quartz/ScheduleJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/entity/quartz/ScheduleJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/exception/handler/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/exception/handler/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/jobs/BioGeneratePlanJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/jobs/BioGeneratePlanJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/jobs/BioPullPlanJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/jobs/BioPullPlanJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/jobs/TestJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/jobs/TestJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/jobs/UpdatePlanDataJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/jobs/UpdatePlanDataJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_1_Redis/redis/EdasRedisClusterConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_1_Redis/redis/EdasRedisClusterConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_1_Redis/redis/RedisCachingConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_1_Redis/redis/RedisCachingConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_1_Redis/redis/RedisClusterModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_1_Redis/redis/RedisClusterModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_1_Redis/redis/RedisClusterWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_1_Redis/redis/RedisClusterWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_1_Redis/redis/RedisFactoryConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_1_Redis/redis/RedisFactoryConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_1_Redis/redis/RedisKeyGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_1_Redis/redis/RedisKeyGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_1_Redis/redis/redis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_1_Redis/redis/redis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_3_Common/Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_3_Common/Lambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_4_Date/CafDateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_4_Date/CafDateUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_5_Num/DoubleUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_5_Num/DoubleUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/resources/application-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resources/application-prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/resources/application-show.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resources/application-show.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/resources/application-stage.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resources/application-stage.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/resources/application-test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resources/application-test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/resources/configuration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resources/configuration.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/resources/generator/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resources/generator/generatorConfig.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,65 +124,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/java/com/jhgk/center/controller/MUserController.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/java/com/jhgk/center/common/SnowflakeIdWorker.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/webapp/META-INF/MANIFEST.MF">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/webapp/index.jsp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/webapp/addUser.jsp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/mybatis.log">
-          <provider selected="true" editor-type-id="LogFileEditorProvider">
-            <state relative-caret-position="1745">
-              <caret line="3958" lean-forward="true" selection-start-line="3958" selection-end-line="3958" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/jobs/BioGeneratePlanJob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/jobs/BioPullPlanJob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-84">
+              <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/resources/application-dev.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/resources/application-prod.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-392">
+              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/resources/application-show.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/resources/application-stage.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-392">
+              <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/resources/application-test.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-722">
+              <caret column="22" selection-start-column="22" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/resources/configuration.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-336" />
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/README.md">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="628">
-                <caret line="28" selection-start-line="28" selection-end-line="28" />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/webapp/updateUser.jsp">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/jobs/UpdatePlanDataJob.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-800" />
+            <state relative-caret-position="168">
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -110,12 +228,20 @@
       <find>2yLoo</find>
       <find>Cpic</find>
       <find>cpic</find>
+      <find>yingzi</find>
+      <find>hsf</find>
+      <find>Bio</find>
     </findStrings>
     <replaceStrings>
       <replace>hk</replace>
       <replace />
       <replace>dfkj</replace>
+      <replace>hkhk</replace>
+      <replace>shengwu</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>D:\HkDevToolKit</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -123,14 +249,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com.yingzi.myLearning/common/WebAppConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/WebAppConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/constant/ReturnCodeEnum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/jobs/BioPullPlanJob.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/exception/handler/GlobalExceptionHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/entity/quartz/QuartzManager.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/aop/BioBuildHealthPlan.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/mysqlconf/BioDataSource.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/mysqlconf/DataSourceModel.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/redis.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_1_redis/redis.java" />
@@ -146,13 +267,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/utils/BioBeanUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_1_Redis/redis/RedisKeyGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/resources/note/db_config.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/resources/application-dev.properties" />
         <option value="$PROJECT_DIR$/LearnMD/open-sources/docker/FirstInDocker.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_1_Redis/Chapter_1_redis/RedisChapter1.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/service/Chapter_1_Redis/Chapter_1_redis/RedisChapter2.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/resources/generator/generatorConfig.xml" />
-        <option value="$PROJECT_DIR$/SpringMVC-Spring-MyBatis/README.md" />
         <option value="$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/java/com/cpic/center/service/CpicSurveyService.java" />
         <option value="$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/resources/config.properties" />
         <option value="$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/controller/CpicFeeDetailController.java" />
@@ -168,6 +287,19 @@
         <option value="$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/service/CpicInjuredService.java" />
         <option value="$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/service/impl/CpicInjuredServiceImpl.java" />
         <option value="$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/service/impl/CpicFeeDetailServiceImpl.java" />
+        <option value="$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/resources/mapper/FeeDetailEntityMapper.xml" />
+        <option value="$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/resources/mapper/InjuredEntityMapper.xml" />
+        <option value="$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/resources/mapper/UserEntityMapper.xml" />
+        <option value="$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/aop/BioServiceParamsValidAop.java" />
+        <option value="$PROJECT_DIR$/SpringMVC-Spring-MyBatis/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/mysqlconf/BioDataSource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/jobs/BioGeneratePlanJob.java" />
+        <option value="$PROJECT_DIR$/src/main/java/resources/application-dev.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/resources/application-prod.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/resources/application-show.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/resources/application-stage.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/resources/application-test.properties" />
       </list>
     </option>
   </component>
@@ -197,268 +329,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="springBoot-mybatis(plus)" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="springBoot-mybatis(plus)" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="springBoot-mybatis(plus)" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="springBoot-mybatis(plus)" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="springBoot-mybatis(plus)" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="springBoot-mybatis(plus)" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="jhsjkd" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="springBoot-mybatis(plus)" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="jhsjkd" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="klfh" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="springBoot-mybatis(plus)" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="jhsjkd" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="klfh" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="dao" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="springBoot-mybatis(plus)" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="jhsjkd" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="klfh" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="dto" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="springBoot-mybatis(plus)" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="jhsjkd" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="klfh" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="model" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="springBoot-mybatis(plus)" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="jhsjkd" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="klfh" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="service" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="springBoot-mybatis（加）" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="jhgk" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="jhgk" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="center" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="jhgk" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="center" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="common" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="jhgk" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="center" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="controller" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="jhgk" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="center" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="dao" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="jhgk" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="center" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="model" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="jhgk" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="center" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="service" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="META-INF" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="WEB-INF" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="CatdeaLogs" />
       <pane id="PackagesPane">
         <subPane>
@@ -472,6 +342,368 @@
         </subPane>
       </pane>
       <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="springBoot-mybatis（加）" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="jhgk" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="jhgk" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="center" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="jhgk" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="center" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="common" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="jhgk" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="center" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="controller" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="jhgk" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="center" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dao" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="jhgk" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="center" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="model" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="jhgk" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="center" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="service" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="jhgk" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="center" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="service" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="impl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="META-INF" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="SpringMVC-Spring-MyBatis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="WEB-INF" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="yingzi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="yingzi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="myLearning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="yingzi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="myLearning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="aop" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="yingzi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="myLearning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="common" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="yingzi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="myLearning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="common" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="config" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="yingzi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="myLearning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="common" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="config" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mysqlconf" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="yingzi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="myLearning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="constant" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="yingzi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="myLearning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="entity" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="yingzi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="myLearning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="entity" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="quartz" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="yingzi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="myLearning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="exception" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="yingzi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="myLearning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="exception" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="handler" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="yingzi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="myLearning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="jobs" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="yingzi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="myLearning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="service" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="yingzi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="myLearning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="service" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Chapter_1_Redis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="HkDevToolKit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DevToolKit" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -542,6 +774,7 @@
       <workItem from="1565576272518" duration="27000" />
       <workItem from="1565925462520" duration="1210000" />
       <workItem from="1566196385161" duration="2444000" />
+      <workItem from="1566199812237" duration="657000" />
     </task>
     <task id="LOCAL-00001" summary="fristCommit">
       <created>1563851649117</created>
@@ -603,12 +836,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19421000" />
+    <option name="totallyTimeSpent" value="20078000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1016" y="-8" width="1296" height="1000" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35008103" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35656402" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -616,7 +849,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32830626" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -654,141 +887,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="updateForGithubURl" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/resources/application-dev.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/resources/application-prod.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/resources/application-show.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/resources/application-stage.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/resources/application-test.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/resources/generator/generatorConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/80fbd13b-794a-4c0b-9455-7db458216666/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="das://80fbd13b-794a-4c0b-9455-7db458216666/schema/CAF/table/T_ORG_INFO">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="15a3bbe3-a5b6-4981-bfbc-571f5bf502d2">
-          <filtering />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="28">
-            <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/resources/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/java/com/jhgk/center/common/UUIDUtil.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/controller/CpicFeeDetailController.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/controller/CpicInjuredController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/model/InjuredEntity.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/service/CpicFeeDetailService.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/service/CpicInjuredService.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/service/impl/CpicFeeDetailServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/service/impl/CpicInjuredServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/model/UserEntity.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/jhsgfh.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/common/configurer/SwaggerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-840" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/common/configurer/WebMvcConfigurer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1848" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/common/exception/GlobalExceptionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-968" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/common/rest/RestResponse.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/common/rest/ReturnCodeEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-156" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/common/utils/DecryptUtil.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/common/utils/HttpInvokerUtil.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/common/utils/SnowflakeIdWorker.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/common/utils/UUIDUtil.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/common/utils/SymbolUtil.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/dao/FeeDetailEntityMapper.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/dao/UserEntityMapper.java">
+    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/dao/InjuredEntityMapper.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/dao/InjuredEntityMapper.java">
+    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/dao/UserEntityMapper.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/dto/InjuredInfoDto.java">
@@ -797,41 +902,50 @@
     <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/model/FeeDetailEntity.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/java/com/jhgk/center/service/CpicSurveyService.java">
+    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/model/InjuredEntity.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/java/com/jhsjkd/klfh/model/UserEntity.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/resources/application-prod.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/resources/application-test.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/resources/banner.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/src/main/resources/generatorConfig.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="516">
+          <caret line="57" column="56" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBoot-mybatis(plus)/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/aop/BioServiceParamsValidAop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1419">
+          <caret column="16" selection-start-column="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/java/com/jhgk/center/service/impl/sdfhjksd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
+        <state relative-caret-position="-243">
           <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/java/com/jhgk/center/model/RoleEntity.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/java/com/jhgk/center/model/SurveyEntity.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/java/com/jhgk/center/dao/RoleEntityMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/java/com/jhgk/center/dao/SurveyEntityMapper.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/java/com/jhgk/center/controller/MUserController.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/java/com/jhgk/center/common/SnowflakeIdWorker.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/webapp/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor" />
@@ -839,33 +953,217 @@
     <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/webapp/addUser.jsp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/webapp/listUser.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/src/main/webapp/updateUser.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-800" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/mybatis.log">
       <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="1745">
-          <caret line="3958" lean-forward="true" selection-start-line="3958" selection-end-line="3958" />
+        <state relative-caret-position="496">
+          <caret line="3958" lean-forward="true" selection-end-line="3958" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420" />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SpringMVC-Spring-MyBatis/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="628">
-            <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <first_editor relative-caret-position="756">
+            <caret line="27" selection-start-line="27" selection-end-line="27" />
           </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/aop/BioBuildHealthPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/aop/BioBuildHealthPlanAop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/aop/BioEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/aop/BioEventAop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/aop/LogAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/aop/SysVaild.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/mysqlconf/SqlSessionFactoryConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/mysqlconf/MysqlDataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/mysqlconf/DrdsTransaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/mysqlconf/DataSourceModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/common/config/mysqlconf/BioDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/constant/ReturnCodeEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/entity/quartz/ScheduleJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/entity/quartz/QuartzManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/entity/quartz/JobFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/exception/handler/GlobalExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/jobs/BioGeneratePlanJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/jobs/UpdatePlanDataJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yingzi/myLearning/jobs/BioPullPlanJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resources/application-prod.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-392">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resources/application-show.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resources/application-stage.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-392">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resources/application-test.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-722">
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resources/configuration.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-336" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>

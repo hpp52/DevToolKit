@@ -1,4 +1,4 @@
-package com.yingzi.myLearning.aop;//package com.yingzi.center.bio.aop;
+package com.dfkj.myLearning.aop;//package com.dfkj.center.bio.aop;
 //
 //import java.util.Arrays;
 //import java.util.Objects;
@@ -13,18 +13,18 @@ package com.yingzi.myLearning.aop;//package com.yingzi.center.bio.aop;
 //import org.slf4j.LoggerFactory;
 //import org.springframework.stereotype.Component;
 //
-//import com.yingzi.center.bio.entity.exception.BioPlatformException;
-//import com.yingzi.center.bio.entity.utils.ValidatorUtils;
+//import com.dfkj.center.bio.entity.exception.BioPlatformException;
+//import com.dfkj.center.bio.entity.utils.ValidatorUtils;
 //
 //@Aspect
 //@Component
 //public class BioServiceParamsValidAop {
 //	private static Logger log = LoggerFactory.getLogger(BioServiceParamsValidAop.class);
 //
-//	//@Pointcut("execution(public com.yingzi.center.bio.api.impl *(..))")
+//	//@Pointcut("execution(public com.dfkj.center.bio.api.impl *(..))")
 //
 //
-//	@Pointcut("@annotation(com.alibaba.boot.hsf.annotation.HSFProvider)||@within(com.alibaba.boot.hsf.annotation.HSFProvider)")
+//	@Pointcut("@annotation(com.alibaba.boot.hkhk.annotation.hkhkProvider)||@within(com.alibaba.boot.hkhk.annotation.hkhkProvider)")
 //	public void exeMethod() {
 //	}
 //

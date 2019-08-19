@@ -1,4 +1,4 @@
-package com.yingzi.myLearning.common.config.mysqlconf;
+package com.dfkj.myLearning.common.config.mysqlconf;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import com.alibaba.druid.util.JdbcConstants;
@@ -23,7 +23,7 @@ import static com.alibaba.fastjson.JSON.parseObject;
  */
 @Configuration("bioDataSource")
 @EnableConfigurationProperties({MysqlDataSourceConfig.class})
-@MapperScan("com.yingzi.center.bio.db.mapper")
+@MapperScan("com.dfkj.center.bio.db.mapper")
 public class BioDataSource extends DruidDataSource implements InitializingBean {
     private static final long serialVersionUID = -846717973236947625L;
     private static final Logger LOGGER = LoggerFactory.getLogger(BioDataSource.class);

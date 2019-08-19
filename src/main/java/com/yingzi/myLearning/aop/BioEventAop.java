@@ -1,16 +1,16 @@
-package com.yingzi.myLearning.aop;
+package com.dfkj.myLearning.aop;
 
 import com.alibaba.fastjson.JSONObject;
-import com.yingzi.center.bio.api.IObjectEventApi;
-import com.yingzi.center.bio.api.VetDiseaseDiagnosisService;
-import com.yingzi.center.bio.contstant.BioCenterConstant;
-import com.yingzi.center.bio.contstant.RedisConstant;
-import com.yingzi.center.bio.entity.vo.BioCastrateRecordVo;
-import com.yingzi.center.bio.entity.vo.BioInnocuousRecordVo;
-import com.yingzi.center.bio.entity.vo.VetDiagnosisRecordVo;
-import com.yingzi.center.bio.entity.vo.VetDiseaseDiagnosisVo;
-import com.yingzi.center.bio.entity.vo.event.BioObjectEventVo;
-import com.yingzi.center.bio.entity.vo.health.HealthRecordVo;
+import com.dfkj.center.bio.api.IObjectEventApi;
+import com.dfkj.center.bio.api.VetDiseaseDiagnosisService;
+import com.dfkj.center.bio.contstant.BioCenterConstant;
+import com.dfkj.center.bio.contstant.RedisConstant;
+import com.dfkj.center.bio.entity.vo.BioCastrateRecordVo;
+import com.dfkj.center.bio.entity.vo.BioInnocuousRecordVo;
+import com.dfkj.center.bio.entity.vo.VetDiagnosisRecordVo;
+import com.dfkj.center.bio.entity.vo.VetDiseaseDiagnosisVo;
+import com.dfkj.center.bio.entity.vo.event.BioObjectEventVo;
+import com.dfkj.center.bio.entity.vo.health.HealthRecordVo;
 import org.apache.commons.lang3.StringUtils;
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.annotation.AfterReturning;
@@ -36,8 +36,8 @@ public class BioEventAop {
 	StringRedisTemplate redisTemplate;
 	
 	
-	@Pointcut("@annotation(com.yingzi.center.bio.aop.BioEvent)||"
-			+ " @within(com.yingzi.center.bio.aop.BioEvent)")
+	@Pointcut("@annotation(com.dfkj.center.bio.aop.BioEvent)||"
+			+ " @within(com.dfkj.center.bio.aop.BioEvent)")
 	public void pointCut() {
 
 	}

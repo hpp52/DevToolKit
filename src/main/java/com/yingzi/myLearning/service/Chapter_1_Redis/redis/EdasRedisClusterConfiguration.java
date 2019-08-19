@@ -1,4 +1,4 @@
-package com.yingzi.myLearning.service.Chapter_1_Redis.redis;
+package com.dfkj.myLearning.service.Chapter_1_Redis.redis;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
