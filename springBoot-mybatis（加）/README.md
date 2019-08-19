@@ -1,6 +1,5 @@
 
-## 简介
-cpic-insurance-rescue 是一个基于Spring Boot & MyBatis的项目，用于年轮商保救援开发Cpic方提供的接口
+## 
 
 
 ## 特征&提供
