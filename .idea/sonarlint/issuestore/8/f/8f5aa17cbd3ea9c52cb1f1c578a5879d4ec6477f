@@ -1,0 +1,5 @@
+
+bsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(¾„’¼
+Rsquid:UnusedPrivateMethod<"(Remove this unused private "log" method.(Ÿ¶ë„ûÿÿÿÿ
+8squid:S1643%"Use a StringBuilder instead.(š•‹Ìÿÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øÓ›§øÿÿÿÿ

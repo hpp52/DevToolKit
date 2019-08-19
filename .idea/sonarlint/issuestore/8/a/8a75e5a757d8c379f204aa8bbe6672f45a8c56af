@@ -1,0 +1,12 @@
+
+Bsquid:S1068"+Remove this unused "jdbcUrl" private field.(àÙ—ø
+Osquid:S1068"3Remove this unused "driverClassName" private field.(‘ä•÷ûÿÿÿÿ
+Osquid:S1068"3Remove this unused "validationQuery" private field.(ÿÑÔÀÿÿÿÿÿ
+Dsquid:S1068"-Remove this unused "maxActive" private field.(‚‚ ¥
+Psquid:S1068"4Remove this unused "jdbcUserPassword" private field.(ÀÁØ”øÿÿÿÿ
+Fsquid:S1068"/Remove this unused "initialSize" private field.(ß¸Í³
+Bsquid:S1068"+Remove this unused "maxWait" private field.(Ê¾þŸ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ãþ…øÿÿÿÿÿ
+Gsquid:S1068"+Remove this unused "minIdle" private field.(þ´Ä®øÿÿÿÿ
+Nsquid:S1135"2Complete the task associated to this TODO comment.(öË…æùÿÿÿÿ
+Gsquid:S1068"0Remove this unused "jdbcUserName" private field.(¯Ì¾ô

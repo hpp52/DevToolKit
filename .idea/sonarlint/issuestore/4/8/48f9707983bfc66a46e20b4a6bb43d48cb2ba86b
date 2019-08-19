@@ -1,0 +1,7 @@
+
+[squid:S2147 "DCombine this catch with the one at line 30, which has the same body.(Å¡ß
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»¡„ïøÿÿÿÿ
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(Ãâ®å
+?squid:S1148!"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Nsquid:S1135"2Complete the task associated to this TODO comment.(öË…æùÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

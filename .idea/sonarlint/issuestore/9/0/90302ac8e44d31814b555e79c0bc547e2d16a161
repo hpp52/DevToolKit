@@ -1,0 +1,10 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Íˆæµ
+isquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(®¯8È€¼æÁ-
+nsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(®²á¸ýÿÿÿÿ8æ“½æÁ-
+isquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(¿±„Á8ˆßðåÁ-
+nsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8æ“½æÁ-
+isquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(é²ì‹8áëºæÁ-
+nsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(ÓÁ¿žýÿÿÿÿ8Š¯»æÁ-
+]squid:S1126"AReplace this if-then-else statement by a single return statement.(éïß¢ýÿÿÿÿ
+nsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(†ìÿÿÿÿÿ8æ“½æÁ-

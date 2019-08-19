@@ -1,0 +1,12 @@
+
+Wsquid:S1481/"4Remove this unused "sortByScoreList" local variable.(Ï¾éŠúÿÿÿÿ8Ä³¬æÁ-
+Csquid:S1068"%Remove this unused "a" private field.(ûÀ£ù8°„¢æÁ-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¡ÂÃ8‡ÛÿåÁ-
+Usquid:S1481"2Remove this unused "codeReasonMap" local variable.(ÉÿÅ÷úÿÿÿÿ8òª“æÁ-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÙİŒñ
+]squid:HiddenFieldCheck&"5Rename "a" which hides the field declared at line 16.(Î§I8°„¢æÁ-
+Msquid:S2201'"*The return value of "equals" must be used.(á¬¯’üÿÿÿÿ8ôÔ£æÁ-
+Osquid:S1602<",Remove useless curly braces around statement(¥§–¤úÿÿÿÿ8ÓÂæÁ-
+Nsquid:S1481"0Remove this unused "CodeNameMap" local variable.(Ğ¡ÂÃ8‡ÛÿåÁ-
+?squid:S1170"!Make this final field static too.(ûÀ£ù8°„¢æÁ-
+_squid:UnusedPrivateMethod"3Remove this unused private "assembleResult" method.(æºË8™ÿåÁ-

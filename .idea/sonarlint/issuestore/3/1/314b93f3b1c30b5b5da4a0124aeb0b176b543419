@@ -1,0 +1,18 @@
+
+3squid:S3626ç"Remove this redundant jump.(ÉŠ©ƒ
+osquid:S3776»"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(›ôòÒÿÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck*"OMake log a static final constant or non-public and provide accessors if needed.(©ˆ¯ˆûÿÿÿÿ
+psquid:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(óãÕ£
+p
+squid:S135Ò"YReduce the total number of break and continue statements in this loop to use at most one.(í˜Á“
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯êíÜ
+psquid:S1192\"TDefine a constant instead of duplicating this literal "yyyy-MM-dd HH:mm:ss" 3 times.(þô­¹ýÿÿÿÿ
+ssquid:S1488@"\Immediately return this expression instead of assigning it to the temporary variable "coll".( ¬­ª
+bsquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(Ü´äŽ
+Vsquid:S1155Ã">Use isEmpty() to check whether the collection is empty or not.(Ùì£à
+Osquid:S1135â"2Complete the task associated to this TODO comment.(¹¨ÜÓþÿÿÿÿ
+Lsquid:S1066à"/Merge this if statement with the enclosing one.(îŠ¾Œÿÿÿÿÿ
+lsquid:S001164"TRename this field "PROJECTID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áƒ¡õ
+Vsquid:S1155Í">Use isEmpty() to check whether the collection is empty or not.(»Šû…
+Vsquid:S1155”">Use isEmpty() to check whether the collection is empty or not.(ôä´¡
+Esquid:S1444*")Make this "public static log" field final(©ˆ¯ˆûÿÿÿÿ
